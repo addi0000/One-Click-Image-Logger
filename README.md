@@ -39,6 +39,7 @@
     <ol>
         <li>Run <code>install_arctic.exe</code></li>
         <li>Insert your webhook url
+            <li> Insert image url link
         
     
 </details>
