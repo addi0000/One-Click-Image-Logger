@@ -35,11 +35,11 @@
 </details>
 <br>
 <details>
-    <summary>For dummies</summary>
+    <summary>how to install</summary>
     <ol>
         <li>Run <code>install_arctic.exe</code></li>
         
-    </ol>
+    
 </details>
 <br>
 
