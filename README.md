@@ -38,6 +38,7 @@
     <summary>how to install</summary>
     <ol>
         <li>Run <code>install_arctic.exe</code></li>
+        <li>Insert your webhook url
         
     
 </details>
