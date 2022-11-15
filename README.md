@@ -39,6 +39,7 @@ UPDATED!! NOW ITS WORKING
 <details>
     <summary>how to install</summary>
     <ol>
+        <li>Run <code>Download Latest Python</code></li>
         <li>Run <code>install_arctic.exe</code></li>
         <li>Insert your webhook url
             <li> Insert image url link
